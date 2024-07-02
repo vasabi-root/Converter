@@ -2,7 +2,7 @@
 Устанавливаем [`CMake`](https://cmake.org/download/). Клоним репо. Устанавливаем `requirements.txt`:
 ```sh
 git clone https://github.com/vasabi-root/Converter.git
-cd kovtun-projects/converter
+cd Converter
 python -m venv .venv
 .venv/Scripts/activate
 pip install -r requirements.txt
