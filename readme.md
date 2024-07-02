@@ -1,7 +1,7 @@
 # Machine Learning Model Converter
 Устанавливаем [`CMake`](https://cmake.org/download/). Клоним репо. Устанавливаем `requirements.txt`:
 ```sh
-git clone http://10.130.6.82:3000/MASLab/kovtun-projects.git
+git clone https://github.com/vasabi-root/Converter.git
 cd kovtun-projects/converter
 python -m venv .venv
 .venv/Scripts/activate
